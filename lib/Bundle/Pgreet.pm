@@ -1,6 +1,6 @@
 package Bundle::Pgreet;
 
-$VERSION = 0.8.9;
+$VERSION = 0.9.0;
 
 1;
 
@@ -32,6 +32,8 @@ Digest::MD5        - To compute unique IDs for state/data file names
 
 Embperl            - Embed Perl into HTML
 
+Log::Dispatch      - Syslog and other logging facilities.
+
 MIME::Lite         - For creating Multipart MIME email
 
 String::Checker    - Tools to compare CGI fields to expectations
@@ -58,6 +60,6 @@ Edouard Lagache <pgreetdev@canebas.org>
 
 =head1 VERSION
 
-0.8.9
+0.9.0
 
 =cut
