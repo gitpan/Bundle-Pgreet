@@ -1,6 +1,6 @@
 package Bundle::Pgreet;
 
-$VERSION = 0.9.0;
+$VERSION = 0.9.5;
 
 1;
 
@@ -38,6 +38,8 @@ MIME::Lite         - For creating Multipart MIME email
 
 String::Checker    - Tools to compare CGI fields to expectations
 
+I18N::AcceptLanguage - Module for internationalization support
+
 
 =head1 DESCRIPTION
 
@@ -48,7 +50,7 @@ http://pgreet.sourceforce.net/
 
 =head1 COPYRIGHT
 
-Copyright (c) 2003 Edouard Lagache
+Copyright (c) 2003, 2004 Edouard Lagache
 
 This software is released under the GNU General Public License, Version 2.
 For more information, see the COPYING file included with this software or
@@ -60,6 +62,6 @@ Edouard Lagache <pgreetdev@canebas.org>
 
 =head1 VERSION
 
-0.9.0
+0.9.5
 
 =cut

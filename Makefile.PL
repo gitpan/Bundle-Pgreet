@@ -5,7 +5,7 @@
 
 # Definitions
 $DISTNAME = 'Bundle::Pgreet';
-$VERSION  = "0.9.0";
+$VERSION  = "0.9.5";
 
 # Prerequisites
 BEGIN { require 5.8.0 }

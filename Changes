@@ -1,5 +1,8 @@
 Revision history for Penguin Greeting installation bundle Bundle::Pgreet
 
+2004-01-XX [elagache]   0.9.5
+    - I18N::AcceptLanguage to required CPAN modules
+
 2003-08-25 [elagache]	0.9.0
 	-  Added Log::Dispatch to required CPAN modules.
 

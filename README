@@ -28,6 +28,8 @@ CONTENTS
 
     String::Checker - Tools to compare CGI fields to expectations
 
+    I18N::AcceptLanguage - Module for internationalization support
+
 DESCRIPTION
     This bundle will install all the Perl modules needed by the Penguin
     Greetings (pgreet) web-based ecard application. For more information on
@@ -35,7 +37,7 @@ DESCRIPTION
     http://pgreet.sourceforce.net/
 
 COPYRIGHT
-    Copyright (c) 2003 Edouard Lagache
+    Copyright (c) 2003, 2004 Edouard Lagache
 
     This software is released under the GNU General Public License, Version
     2. For more information, see the COPYING file included with this
@@ -45,5 +47,5 @@ AUTHOR
     Edouard Lagache <pgreetdev@canebas.org>
 
 VERSION
-    0.9.0
+    0.9.5
 
