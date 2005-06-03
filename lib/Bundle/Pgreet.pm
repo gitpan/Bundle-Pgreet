@@ -1,6 +1,6 @@
 package Bundle::Pgreet;
 
-$VERSION = 0.9.5;
+$VERSION = 1.0.0;
 
 1;
 
@@ -50,7 +50,7 @@ http://pgreet.sourceforce.net/
 
 =head1 COPYRIGHT
 
-Copyright (c) 2003, 2004 Edouard Lagache
+Copyright (c) 2003-2005 Edouard Lagache
 
 This software is released under the GNU General Public License, Version 2.
 For more information, see the COPYING file included with this software or
@@ -62,6 +62,6 @@ Edouard Lagache <pgreetdev@canebas.org>
 
 =head1 VERSION
 
-0.9.5
+1.0.0
 
 =cut
